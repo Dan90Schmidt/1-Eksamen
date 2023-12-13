@@ -1,3 +1,16 @@
 @charset "UTF-8";
 /* CSS Document */
 
+.container header {
+    color: #FFFFFF;
+}
+
+/* dripdrop-logo */
+
+header img {
+    width: 42px; 
+    height: auto;
+}
+
+/* Add any additional styling for your navigation or other elements as needed */
+
