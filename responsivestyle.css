@@ -16,3 +16,15 @@ header img {
 
 /* Forbedre dripdrop-logo med en større størrelse */
 
+
+a img {
+    max-width: 45%; /* introduktion-boks af dripdrop */
+    height: auto;
+    display: block; 
+    margin: 0 auto; 
+    border: 2px solid #333; 
+}
+
+
+
+
